@@ -1,0 +1,68 @@
+ body {
+        background-image: url("images/bg.jpg");
+        background-size: cover;
+    }
+    
+    h1 {
+        font-family: amatic SC Bold;
+        color: aquamarine;
+        font-size: 100px;
+        text-align: center;
+    }
+    
+    h2 {
+        color: paleturquoise;
+        font-size: 50px;
+    }
+    
+    p {
+        color: paleturquoise;
+        font-size: 50px;
+        padding-bottom: 0px;
+        line-height: 0;
+    }
+    
+    .sns {
+        width: 200px;
+        color: red;
+        font-size: 80px;
+        border-bottom: solid;
+        transition: all 1s;
+    }
+    
+    .sns:hover {
+        color: aquamarine;
+        font-size: 100px;
+    }
+    
+    .intro {
+        padding-left: 50px;
+    }
+    
+    .on {
+        color: deeppink;
+        opacity: 0.2;
+        transition: all 1s;
+    }
+    
+    .on:hover {
+        opacity: 1;
+        color: aqua;
+    }
+    
+    .suji {
+        color: darkmagenta;
+    }
+    
+    .link {
+        width: 200px;
+        color: red;
+        font-size: 80px;
+        border-bottom: solid;
+        transition: all 1s;
+    }
+    
+    .link:hover {
+        color: lime;
+        font-size: 100px;
+    }
