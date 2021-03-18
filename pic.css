@@ -1,0 +1,121 @@
+        /* 基本設定 */
+        
+        .yout {
+            border-style: none;
+            margin: 0px 50px 0px 0px;
+            opacity: 1;
+            size: 500px;
+        }
+        
+        .yout:hover {
+            opacity: 0.6;
+        }
+        
+        .twi {
+            border-style: none;
+            margin: 0px 50px 0px 0px;
+            opacity: 1;
+        }
+        
+        .twi:hover {
+            opacity: 0.6;
+        }
+        
+        .insta {
+            border-style: none;
+            margin: 0px 50px 0px 0px;
+            opacity: 1;
+        }
+        
+        .insta:hover {
+            opacity: 0.6;
+        }
+        
+        .fb {
+            border-style: none;
+            margin: 0px 50px 0px 0px;
+            opacity: 1;
+        }
+        
+        .fb:hover {
+            opacity: 0.6;
+        }
+        
+        .btn {
+            border-style: none;
+            margin: 0px 50px 0px 0px;
+            opacity: 1;
+        }
+        
+        .btn:hover {
+            opacity: 0.6;
+        }
+        
+        .li {
+            border-style: none;
+            margin: 0px 30px 0px 10px;
+            opacity: 1;
+        }
+        
+        .li:hover {
+            opacity: 0.6;
+        }
+        /* マウスを乗せたときの動き */
+        
+        .btn-img {
+            width: 100px;
+            height: auto;
+        }
+        
+        .youtu {
+            border: 1px solid #ddd;
+            width: 300px;
+            height: 226px;
+            margin: 20px auto 0;
+            transition-duration: 0.5s;
+        }
+        
+        .youtu img {
+            width: 100%;
+            cursor: pointer;
+        }
+        
+        .youtu:hover {
+            box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+            transform: translateY(-10px);
+            transition-duration: 0.5s;
+        }
+        
+        .yuru {
+            width: 500px;
+        }
+        
+        .pin {
+            border-style: none;
+            margin: 0px 50px 0px 0px;
+            opacity: 1;
+        }
+        
+        .pin:hover {
+            opacity: 0.6;
+        }
+        
+        .wu {
+            border-style: none;
+            margin: 0px 50px 0px 0px;
+            opacity: 1;
+        }
+        
+        .wu:hover {
+            opacity: 0.6;
+        }
+        
+        .linked {
+            border-style: none;
+            margin: 0px 0px 0px 0px;
+            opacity: 1;
+        }
+        
+        .linked:hover {
+            opacity: 0.6;
+        }
