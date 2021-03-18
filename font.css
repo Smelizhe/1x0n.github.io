@@ -1,0 +1,108 @@
+body {
+    font-family: "Garamond", serif;
+}
+
+.sme {
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+    padding: 0;
+}
+
+.sme:hover {
+    color: violet;
+    font-size: 100px;
+}
+
+.kakomi {
+    margin: 2em auto;
+    padding: 1em 1.5em;
+    width: 90%;
+    /*幅の調節*/
+    color: #ffb7b7;
+    /* 文字色 */
+    background-color: rgba(97, 40, 40, 0.062);
+    /* 背景色 */
+    border: 4px solid #f6bfbc;
+    /*線の太さ・色*/
+    border-radius: 3em .8em 3em .7em/.9em 2em .8em 3em;
+}
+
+ul {
+    width: 330px;
+    color: cyan;
+    font-size: 28px;
+}
+
+.yuru {
+    opacity: 1;
+    color: rgb(255, 0, 0);
+}
+
+.yuru:hover {
+    opacity: 0.6;
+    color: rgb(0, 255, 85);
+}
+
+.anohana {
+    opacity: 1;
+    color: rgb(255, 0, 0);
+}
+
+.anohana:hover {
+    opacity: 0.6;
+    color: rgb(111, 0, 255);
+}
+
+.konosuba {
+    opacity: 1;
+    color: rgb(255, 0, 0);
+}
+
+.konosuba:hover {
+    opacity: 0.6;
+    color: rgb(255, 0, 157);
+}
+
+.rezero {
+    opacity: 1;
+    color: rgb(255, 0, 0);
+}
+
+.rezero:hover {
+    opacity: 0.6;
+    color: rgb(255, 251, 0);
+}
+
+.hana {
+    opacity: 1;
+    color: rgb(255, 0, 0);
+}
+
+.hana:hover {
+    opacity: 0.6;
+    color: rgb(0, 255, 98);
+}
+
+.yuru {
+    opacity: 1;
+}
+
+.yuru:hover {
+    opacity: 0.6;
+}
+
+.Tools4hack {
+    color: turquoise;
+}
+
+.Tools4hack:hover {
+    color: skyblue
+}
+
+li {
+    float: left;
+    margin-right: 28;
+    font-size: 50px;
+    padding: 20px;
+    color: pink
+}
